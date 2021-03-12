@@ -1,3 +1,5 @@
+// deployed on heroku
+
 module.exports = ({ env }) => ({
   upload: {
     provider: 'cloudinary',

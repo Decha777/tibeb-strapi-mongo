@@ -1,3 +1,4 @@
+// deployed on heroku
 module.exports = ({ env }) => ({
   defaultConnection: 'default',
   connections: {
@@ -20,6 +21,7 @@ module.exports = ({ env }) => ({
 });
 
 
+// local
 // module.exports = ({ env }) => ({
 //   defaultConnection: 'default',
 //   connections: {
