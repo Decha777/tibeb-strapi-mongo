@@ -1,0 +1,8 @@
+{
+    "provider":"cloudinary",
+    "providerOptions":{
+        "cloud_name":"devpptbxs",
+        "api_key": "879963232623231",
+        "api_secret":"9EVd-MJ9xQaTATTaJYbqDd269NY"
+    }
+}
